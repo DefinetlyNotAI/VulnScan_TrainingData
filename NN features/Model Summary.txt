@@ -1,0 +1,43 @@
+----------------------------------------------------------------
+        Layer (type)               Output Shape         Param #
+================================================================
+            Linear-1               [-1, 1, 128]       1,280,128
+              ReLU-2               [-1, 1, 128]               0
+            Linear-3                 [-1, 1, 2]             258
+
+================================================================
+Total params: 1,280,386
+Trainable params: 1,280,386
+Non-trainable params: 0
+----------------------------------------------------------------
+Input size (MB): 0.04
+Forward/backward pass size (MB): 0.00
+Params size (MB): 4.88
+Estimated Total Size (MB): 4.92
+----------------------------------------------------------------
+Sequential(
+  (0): Linear(in_features=10000, out_features=128, bias=True)
+  (1): ReLU()
+  (2): Linear(in_features=128, out_features=2, bias=True)
+)----------------------------------------------------------------
+        Layer (type)               Output Shape         Param #
+================================================================
+            Linear-1               [-1, 1, 128]       1,280,128
+              ReLU-2               [-1, 1, 128]               0
+            Linear-3                 [-1, 1, 2]             258
+
+================================================================
+Total params: 1,280,386
+Trainable params: 1,280,386
+Non-trainable params: 0
+----------------------------------------------------------------
+Input size (MB): 0.04
+Forward/backward pass size (MB): 0.00
+Params size (MB): 4.88
+Estimated Total Size (MB): 4.92
+----------------------------------------------------------------
+Sequential(
+  (0): Linear(in_features=10000, out_features=128, bias=True)
+  (1): ReLU()
+  (2): Linear(in_features=128, out_features=2, bias=True)
+)
