@@ -10,3 +10,5 @@ This includes all the model's and data for VulnScan module for Logicytics.
 > [!NOTE]
 > This is under a dual license, using this for commercial purposes will require you to follow [Logicytics License](https://github.com/DefinetlyNotAI/Logicytics/blob/main/LICENSE)
 > If this is used for non-commercial purposes, you follow the License attached to the repository.
+
+Go [here](https://definetlynotai.github.io/VulnScan_TrainingData/NN%20features/Loss_Landscape_3D.html) to see the 3D Loss Plot!
