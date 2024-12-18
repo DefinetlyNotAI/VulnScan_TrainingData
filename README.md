@@ -3,8 +3,10 @@
 Logicytics VulnScan Module's Training Data and old model archive.
 This includes all the model's and data for VulnScan module for Logicytics.
 
+
 <div style="text-align:center;" align="center">
-  <a href="https://github.com/DefinetlyNotAI/Logicytics"><img src="https://img.shields.io/github/repo-size/DefinetlyNotAI/VulnScan_TrainingData" alt="GitHub Repo Size"></a>
+    <a href="https://github.com/DefinetlyNotAI/VulnScan_Data/tags"><img src="https://img.shields.io/github/v/tag/DefinetlyNotAI/VulnScan_Data" alt="GitHub Tag"></a>
+    <a href="https://github.com/DefinetlyNotAI/VulnScan_Data"><img src="https://img.shields.io/github/repo-size/DefinetlyNotAI/VulnScan_Data" alt="GitHub Repo Size"></a>
 </div>
 
 > [!NOTE]
